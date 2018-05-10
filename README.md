@@ -1,3 +1,3 @@
 # Python projects
 ---
-Collection of Python projects made while learning.
+A collection of Python projects I have made while learning about different subjects.
