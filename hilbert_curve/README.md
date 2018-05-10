@@ -55,4 +55,4 @@ pip install numba
 
 ```
 
-![demo.png](https://github.com/DarioSucic/python_projects/tree/master/hilbert_curve/images/demo.png)
+![demo.png](https://raw.githubusercontent.com/DarioSucic/python_projects/master/hilbert_curve/images/demo.png)
